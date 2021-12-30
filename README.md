@@ -10,6 +10,5 @@ You can click the Preview link to take a look at your changes.
 [![Nikita Shchelkanov's github stats](https://github-readme-stats.vercel.app/api?username=niksche&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niksche&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=niksche&color=blueviolet)
 
 - 📫 How to reach me t.me/n_shch
